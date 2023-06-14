@@ -58,7 +58,7 @@ Issues and Feedback
 
 If you encounter any issues while using mi2png or have any feedback, please submit them on the [GitHub repository](https://github.com/avadhesh18/mi2png/issues).
 
-Issues and Feedback
+License
 -------------------
 
 GNU GPL V3.0
