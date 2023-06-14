@@ -1,5 +1,6 @@
 mi2png - Convert Material Icons to PNG
 ======================================
+<img width="976" alt="mi2png - convert Google Material Design Icons to PNG online tool screenshot" src="https://github.com/avadhesh18/mi2png/assets/7838916/55f2a0a9-c757-45d4-81d1-6813a370b5a7">
 
 mi2png is a web app that allows you to convert Google Material Icons to PNG format. With mi2png, you can choose between filled, outlined, sharp, and rounded icons, adjust the icon size and color, and then download the converted PNG file.
 
